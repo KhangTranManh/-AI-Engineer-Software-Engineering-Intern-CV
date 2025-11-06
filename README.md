@@ -21,7 +21,6 @@ This repository contains my up-to-date CV and serves as a quick overview of my s
 - **Web Development:** Node.js, HTML, CSS  
 - **Languages:**  
   - English: IELTS 6.0  
-  - Japanese: JLPT N5 (in progress)  
 
 ---
 
